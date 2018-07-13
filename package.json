@@ -22,11 +22,11 @@
   ],
   "main": "dist/crypto2.js",
   "dependencies": {
-    "babel-runtime": "6.23.0",
     "node-rsa": "1.0.0",
     "util.promisify": "1.0.0"
   },
   "devDependencies": {
+    "babel-runtime": "6.23.0",
     "assertthat": "1.0.0",
     "roboter": "1.0.2"
   },
