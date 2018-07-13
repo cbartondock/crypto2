@@ -30,6 +30,16 @@
     "assertthat": "1.0.0",
     "roboter": "1.0.2"
   },
+  "react-native": {
+    "crypto": "react-native-crypto",
+    "fs": "react-native-level-fs",
+    "stream": "stream-browserify"
+  },
+  "browser": {
+    "crypto": "react-native-crypto",
+    "fs": "react-native-level-fs",
+    "stream": "stream-browserify"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/thenativeweb/crypto2.git"
